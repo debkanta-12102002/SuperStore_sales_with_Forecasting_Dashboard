@@ -56,7 +56,7 @@ This project uses a fictional **SuperStore Sales dataset**, commonly used in BI 
 
 ## 📷 Sample Dashboard Preview
 
-![SuperStore Dashboard Screenshot](dashboard-screenshot.png)
+![SuperStore Dashboard Screenshot](dashboard.png)
 
 > *(Replace `dashboard-screenshot.png` with your actual image filename in the repo)*
 
